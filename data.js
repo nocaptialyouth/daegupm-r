@@ -77,10 +77,10 @@
         "workersComp":  "확인필요",
         "autoInsurance":  "확인필요",
         "dayRehab":  "확인필요",
-        "address":  "대구광역시 동구(신암동 일대, 상세주소 확인필요)",
-        "phone":  "확인필요",
+        "address":  "대구광역시 동구 아양로 99 (신암동)",
+        "phone":  "1688-7770",
         "sources":  "https://www.fatima.or.kr/",
-        "verification":  "공식 홈페이지(진료과목) 확인",
+        "verification":  "HIRA·공식정보 확인",
         "notes":  "재활의학과 진료과 개설 확인. 상세주소·전문의 수 전화 확인 필요"
     },
     {
@@ -119,10 +119,10 @@
         "workersComp":  "확인필요",
         "autoInsurance":  "확인필요",
         "dayRehab":  "해당없음",
-        "address":  "대구광역시 동구(상세주소 확인필요)",
-        "phone":  "확인필요",
+        "address":  "대구광역시 동구 안심로 358, 2~4층 (동호동)",
+        "phone":  "053-957-5000",
         "sources":  "https://suwol.kr/",
-        "verification":  "공식 홈페이지(의료진) 확인",
+        "verification":  "HIRA·공식정보 확인",
         "notes":  "한방재활의학과 전문의 진료 확인. 상세주소·전화 전화확인 필요"
     },
     {
@@ -182,10 +182,10 @@
         "workersComp":  "확인필요",
         "autoInsurance":  "확인필요",
         "dayRehab":  "확인필요",
-        "address":  "대구광역시 서구 중리동",
-        "phone":  "확인필요",
+        "address":  "대구광역시 서구 와룡로 298-13 (중리동)",
+        "phone":  "053-570-7600",
         "sources":  "Daum 팁(dgsbgh.daegumc.co.kr 인용)",
-        "verification":  "후보/전화확인",
+        "verification":  "HIRA·공식정보 확인",
         "notes":  "대구의료원 계열 공립 요양병원으로 추정. 전화 확인 필요"
     },
     {
@@ -245,10 +245,10 @@
         "workersComp":  "확인필요",
         "autoInsurance":  "확인필요",
         "dayRehab":  "해당없음",
-        "address":  "대구광역시 남구 명덕로8길 70",
-        "phone":  "확인필요",
+        "address":  "대구광역시 남구 명덕로8길 70 (대명동)",
+        "phone":  "053-650-8080",
         "sources":  "https://durc.daegu.ac.kr/",
-        "verification":  "공식 홈페이지 확인",
+        "verification":  "HIRA·공식정보 확인",
         "notes":  "물리치료사 9명, 작업치료사 6명, 언어치료사 2명 확인(홈페이지). 소아·성인 재활 모두 진료"
     },
     {
@@ -350,10 +350,10 @@
         "workersComp":  "확인필요",
         "autoInsurance":  "확인필요",
         "dayRehab":  "확인필요",
-        "address":  "대구광역시 북구 칠곡중앙대로 440",
-        "phone":  "확인필요",
+        "address":  "대구광역시 북구 칠곡중앙대로 440 (읍내동)",
+        "phone":  "053-320-2500",
         "sources":  "http://www.tcmcch.co.kr/",
-        "verification":  "공식 확인(주소)",
+        "verification":  "HIRA·공식정보 확인",
         "notes":  "재활의학과 개설 여부 및 전문의 수 전화 확인 필요"
     },
     {
@@ -455,10 +455,10 @@
         "workersComp":  "확인필요",
         "autoInsurance":  "확인필요",
         "dayRehab":  "해당없음",
-        "address":  "대구광역시 북구 침산동",
-        "phone":  "확인필요",
+        "address":  "대구광역시 북구 침산남로 140, MB플라자 3층",
+        "phone":  "053-353-9698",
         "sources":  "Daum 팁(pamfreeclinic.com 인용)",
-        "verification":  "후보/전화확인",
+        "verification":  "HIRA·공식정보 확인",
         "notes":  "상세주소·전화 전화확인 필요"
     },
     {
@@ -476,10 +476,10 @@
         "workersComp":  "확인필요",
         "autoInsurance":  "확인필요",
         "dayRehab":  "해당없음",
-        "address":  "대구광역시 북구 산격동",
-        "phone":  "확인필요",
+        "address":  "대구광역시 북구 대학로 143 (산격동)",
+        "phone":  "053-957-0075",
         "sources":  "Daum 팁(parkhospital.co.kr 인용)",
-        "verification":  "후보/전화확인",
+        "verification":  "HIRA·공식정보 확인",
         "notes":  "재활의학과 전문의 여부 전화 확인 필요"
     },
     {
@@ -497,10 +497,10 @@
         "workersComp":  "확인필요",
         "autoInsurance":  "확인필요",
         "dayRehab":  "확인필요",
-        "address":  "대구광역시 북구 복현동",
-        "phone":  "확인필요",
+        "address":  "대구광역시 북구 공항로 15 (복현동)",
+        "phone":  "053-384-9119",
         "sources":  "Daum 팁(newlife9119.co.kr 인용)",
-        "verification":  "후보/전화확인",
+        "verification":  "HIRA·공식정보 확인",
         "notes":  "재활의학과 전문의 여부 전화 확인 필요"
     },
     {
@@ -518,10 +518,10 @@
         "workersComp":  "근로복지공단 재활인증의료기관",
         "autoInsurance":  "확인필요",
         "dayRehab":  "확인필요",
-        "address":  "대구광역시 수성구 명덕로 443",
-        "phone":  "확인필요",
+        "address":  "대구광역시 수성구 명덕로 443 (수성동3가)",
+        "phone":  "053-740-1000",
         "sources":  "의학신문/양파티브이뉴스/근로복지공단 재활인증 현황",
-        "verification":  "언론보도/공단 확인",
+        "verification":  "HIRA·공식정보 확인",
         "notes":  "수성구 유일 회복기 재활의료기관지정병원. 간호간병통합병동 3개 운영(언론보도)"
     },
     {
@@ -539,10 +539,10 @@
         "workersComp":  "근로복지공단 재활인증의료기관",
         "autoInsurance":  "확인필요",
         "dayRehab":  "확인필요",
-        "address":  "대구광역시 달서구 달구벌대로 1035",
-        "phone":  "확인필요",
+        "address":  "대구광역시 달서구 달구벌대로 1035 (신당동)",
+        "phone":  "1577-6622",
         "sources":  "위키백과(계명대학교 동산병원)/근로복지공단 재활인증 현황",
-        "verification":  "위키/공단 확인",
+        "verification":  "HIRA·공식정보 확인",
         "notes":  "2019년 신당동 이전, 대구경북권 최대 규모 상급종합병원(930병상)"
     },
     {
@@ -602,10 +602,10 @@
         "workersComp":  "근로복지공단 재활인증의료기관",
         "autoInsurance":  "확인필요",
         "dayRehab":  "확인필요",
-        "address":  "대구광역시 달서구 계대동문로 96",
-        "phone":  "확인필요",
+        "address":  "대구광역시 달서구 계대동문로 96 (이곡동)",
+        "phone":  "053-760-1000",
         "sources":  "근로복지공단 재활인증의료기관 현황(대구서부지사)",
-        "verification":  "공단 확인",
+        "verification":  "HIRA·공식정보 확인",
         "notes":  "재활의학과 전문의 수 전화 확인 필요"
     },
     {
@@ -623,10 +623,10 @@
         "workersComp":  "확인필요",
         "autoInsurance":  "확인필요",
         "dayRehab":  "해당없음",
-        "address":  "대구 중구 남산동(반월당역/명덕역 권역)",
-        "phone":  "확인필요",
+        "address":  "대구광역시 중구 달구벌대로 2094, 901호 (남산동)",
+        "phone":  "053-423-3105",
         "sources":  "https://my-doctor.io/dept-hub/%EC%9E%AC%ED%99%9C%EC%9D%98%ED%95%99%EA%B3%BC/%EB%8C%80%EA%B5%AC",
-        "verification":  "보강/전화확인",
+        "verification":  "HIRA·공식정보 확인",
         "notes":  "기존 원본 누락. 대구 재활의학과 목록에 확인되어 추가"
     },
     {
@@ -644,10 +644,10 @@
         "workersComp":  "확인필요",
         "autoInsurance":  "확인필요",
         "dayRehab":  "해당없음",
-        "address":  "대구 중구 남일동(중앙로역 권역)",
-        "phone":  "확인필요",
+        "address":  "대구광역시 중구 국채보상로 582, 미도빌딩 2층 (남일동)",
+        "phone":  "053-210-1234",
         "sources":  "https://my-doctor.io/dept-hub/%EC%9E%AC%ED%99%9C%EC%9D%98%ED%95%99%EA%B3%BC/%EB%8C%80%EA%B5%AC",
-        "verification":  "보강/전화확인",
+        "verification":  "HIRA·공식정보 확인",
         "notes":  "기존 원본 누락. 주소·전화 HIRA 재확인 필요"
     },
     {
@@ -686,10 +686,10 @@
         "workersComp":  "확인필요",
         "autoInsurance":  "확인필요",
         "dayRehab":  "확인필요",
-        "address":  "대구 남구 대명동",
-        "phone":  "확인필요",
+        "address":  "대구광역시 남구 현충로 236, 2~6층 (대명동)",
+        "phone":  "053-213-2300",
         "sources":  "https://my-doctor.io/dept-hub/%EC%9E%AC%ED%99%9C%EC%9D%98%ED%95%99%EA%B3%BC/%EB%8C%80%EA%B5%AC",
-        "verification":  "후보/전화확인",
+        "verification":  "HIRA·공식정보 확인",
         "notes":  "재활의학과 진료과목 노출. HIRA 상세와 전화 확인 필요"
     },
     {
@@ -770,10 +770,10 @@
         "workersComp":  "확인필요",
         "autoInsurance":  "확인필요",
         "dayRehab":  "확인필요",
-        "address":  "대구광역시 서구 국채보상로 223, 대원빌딩 4~10층",
-        "phone":  "확인필요",
+        "address":  "대구광역시 서구 국채보상로 223, 대원빌딩 4~10층 (평리동)",
+        "phone":  "053-262-2626",
         "sources":  "https://ddoga.co.kr/ltch/13/JDQ4MTYyMiM4MSMkMSMkMCMkOTkkNTgxMzUxIzIxIyQxIyQ1IyQ5MiQ0NjEwMDIjNDEjJDEjJDgjJDgz/W01",
-        "verification":  "보강/전화확인",
+        "verification":  "HIRA·공식정보 확인",
         "notes":  "또가/공공데이터 기반 정보상 재활의학과 전문의 2명, 요양병원 평가 4등급"
     },
     {
@@ -791,10 +791,10 @@
         "workersComp":  "확인필요",
         "autoInsurance":  "확인필요",
         "dayRehab":  "해당없음",
-        "address":  "대구 서구 비산동(달성공원역 권역)",
-        "phone":  "확인필요",
+        "address":  "대구광역시 서구 국채보상로 429, 2/4층 (비산동)",
+        "phone":  "053-572-9222",
         "sources":  "https://my-doctor.io/dept-hub/%EC%9E%AC%ED%99%9C%EC%9D%98%ED%95%99%EA%B3%BC/%EB%8C%80%EA%B5%AC",
-        "verification":  "후보/전화확인",
+        "verification":  "HIRA·공식정보 확인",
         "notes":  "재활의학과 전문의가 아닌 진료과목 보유 후보일 수 있어 HIRA 확인 필요"
     },
     {
@@ -896,10 +896,10 @@
         "workersComp":  "확인필요",
         "autoInsurance":  "확인필요",
         "dayRehab":  "해당없음",
-        "address":  "대구 수성구 범물동(범물역 권역)",
-        "phone":  "확인필요",
+        "address":  "대구광역시 수성구 지범로 202 (범물동)",
+        "phone":  "053-784-9698",
         "sources":  "https://www.modoodoc.com/hospital/43394/%EC%8B%A0%ED%86%B5%EC%9E%AC%ED%99%9C%EC%9D%98%ED%95%99%EA%B3%BC%EC%9D%98%EC%9B%90-%EB%8C%80%EA%B5%AC-%EB%B2%94%EB%AC%BC%EB%8F%99",
-        "verification":  "보강/전화확인",
+        "verification":  "HIRA·공식정보 확인",
         "notes":  "모두닥 병원정보 확인. 전화·전문의 수 HIRA 확인 필요"
     },
     {
@@ -917,10 +917,10 @@
         "workersComp":  "확인필요",
         "autoInsurance":  "확인필요",
         "dayRehab":  "확인필요",
-        "address":  "대구광역시 수성구 수성로 228, 지하1~10층",
-        "phone":  "확인필요",
+        "address":  "대구광역시 수성구 수성로 228 (중동)",
+        "phone":  "053-766-5555",
         "sources":  "https://www.hira.or.kr/ra/hosp/hospInfoAjax.do?ykiho=JDQ4MTYyMiM4MSMkMSMkMCMkOTkkNTgxMzUxIzIxIyQxIyQ1IyQ4MiQzNjE0ODEjNTEjJDEjJDIjJDgz",
-        "verification":  "HIRA 확인",
+        "verification":  "HIRA·공식정보 확인",
         "notes":  "HIRA 병원정보상 재활의학과 전문의 1명, 물리치료사 34명·작업치료사 19명 확인"
     },
     {
@@ -959,10 +959,10 @@
         "workersComp":  "확인필요",
         "autoInsurance":  "확인필요",
         "dayRehab":  "확인필요",
-        "address":  "대구 수성구 욱수동(사월역 권역)",
-        "phone":  "확인필요",
+        "address":  "대구광역시 수성구 유니버시아드로 365 (욱수동)",
+        "phone":  "053-819-2004",
         "sources":  "https://my-doctor.io/hospital/deptHub/list/region/%EC%9E%AC%ED%99%9C%EC%9D%98%ED%95%99%EA%B3%BC-%EC%A0%84%EC%B2%B4-%EB%8C%80%EA%B5%AC-%EC%88%98%EC%84%B1%EA%B5%AC",
-        "verification":  "후보/전화확인",
+        "verification":  "HIRA·공식정보 확인",
         "notes":  "수성구 재활의학과 전체 목록에 노출. HIRA 상세 확인 필요"
     },
     {
@@ -980,10 +980,10 @@
         "workersComp":  "확인필요",
         "autoInsurance":  "확인필요",
         "dayRehab":  "해당없음",
-        "address":  "대구 달서구 상인동(월배역 권역)",
-        "phone":  "확인필요",
+        "address":  "대구광역시 달서구 월배로 168, 아보스타워 3층 (상인동)",
+        "phone":  "053-633-7979",
         "sources":  "https://my-doctor.io/dept-hub/%EC%9E%AC%ED%99%9C%EC%9D%98%ED%95%99%EA%B3%BC/%EC%A0%84%EC%B2%B4%EB%B3%91%EC%9B%90/%EB%8C%80%EA%B5%AC-%EB%8B%AC%EC%84%9C%EA%B5%AC",
-        "verification":  "보강/전화확인",
+        "verification":  "HIRA·공식정보 확인",
         "notes":  "달서구 재활의학과 목록에 확인되어 추가"
     },
     {
@@ -1001,10 +1001,10 @@
         "workersComp":  "확인필요",
         "autoInsurance":  "확인필요",
         "dayRehab":  "해당없음",
-        "address":  "대구 달서구 죽전동(죽전역 권역)",
-        "phone":  "확인필요",
+        "address":  "대구광역시 달서구 달구벌대로 1545, 골든뷰 메디타워 404호 (죽전동)",
+        "phone":  "053-562-7582",
         "sources":  "https://my-doctor.io/dept-hub/%EC%9E%AC%ED%99%9C%EC%9D%98%ED%95%99%EA%B3%BC/%EC%A0%84%EC%B2%B4%EB%B3%91%EC%9B%90/%EB%8C%80%EA%B5%AC-%EB%8B%AC%EC%84%9C%EA%B5%AC",
-        "verification":  "보강/전화확인",
+        "verification":  "HIRA·공식정보 확인",
         "notes":  "달서구 재활의학과 목록상 재활의학과 전문의 1명으로 노출"
     },
     {
@@ -1043,10 +1043,10 @@
         "workersComp":  "확인필요",
         "autoInsurance":  "확인필요",
         "dayRehab":  "확인필요",
-        "address":  "대구 달서구 진천동(진천역 권역)",
-        "phone":  "확인필요",
+        "address":  "대구광역시 달서구 월배로 102 (진천동)",
+        "phone":  "053-641-9200",
         "sources":  "https://my-doctor.io/dept-hub/%EC%9E%AC%ED%99%9C%EC%9D%98%ED%95%99%EA%B3%BC/%EC%A0%84%EC%B2%B4%EB%B3%91%EC%9B%90/%EB%8C%80%EA%B5%AC-%EB%8B%AC%EC%84%9C%EA%B5%AC",
-        "verification":  "후보/전화확인",
+        "verification":  "HIRA·공식정보 확인",
         "notes":  "달서구 재활의학과 목록상 재활의학과 전문의 기관으로 노출"
     },
     {
@@ -1064,10 +1064,10 @@
         "workersComp":  "확인필요",
         "autoInsurance":  "확인필요",
         "dayRehab":  "확인필요",
-        "address":  "대구 달서구 두류동(명덕역 권역)",
-        "phone":  "확인필요",
+        "address":  "대구광역시 달서구 성당로 215 (두류동)",
+        "phone":  "053-652-2220",
         "sources":  "https://my-doctor.io/dept-hub/%EC%9E%AC%ED%99%9C%EC%9D%98%ED%95%99%EA%B3%BC/%EC%A0%84%EC%B2%B4%EB%B3%91%EC%9B%90/%EB%8C%80%EA%B5%AC-%EB%8B%AC%EC%84%9C%EA%B5%AC",
-        "verification":  "후보/전화확인",
+        "verification":  "HIRA·공식정보 확인",
         "notes":  "달서구 재활의학과 목록상 재활의학과 전문의 요양병원으로 노출"
     },
     {
@@ -1085,10 +1085,10 @@
         "workersComp":  "확인필요",
         "autoInsurance":  "확인필요",
         "dayRehab":  "확인필요",
-        "address":  "대구 달서구 두류동(감삼역 권역)",
-        "phone":  "확인필요",
+        "address":  "대구광역시 달서구 달구벌대로 1666, 감삼스퀘어 8~10층 (감삼동)",
+        "phone":  "053-637-3375",
         "sources":  "https://my-doctor.io/dept-hub/%EC%9E%AC%ED%99%9C%EC%9D%98%ED%95%99%EA%B3%BC/%EB%8C%80%EA%B5%AC",
-        "verification":  "후보/전화확인",
+        "verification":  "HIRA·공식정보 확인",
         "notes":  "진료과목에 재활의학과·한방재활 관련 과목 노출. HIRA 확인 필요"
     },
     {
@@ -1106,10 +1106,10 @@
         "workersComp":  "확인필요",
         "autoInsurance":  "확인필요",
         "dayRehab":  "확인필요",
-        "address":  "대구 달서구 월성동(월배역 권역)",
-        "phone":  "확인필요",
+        "address":  "대구광역시 달서구 조암로 17, 이래타워 2~4층 (월성동)",
+        "phone":  "053-643-5000",
         "sources":  "https://my-doctor.io/dept-hub/%EC%9E%AC%ED%99%9C%EC%9D%98%ED%95%99%EA%B3%BC/%EC%A0%84%EC%B2%B4%EB%B3%91%EC%9B%90/%EB%8C%80%EA%B5%AC-%EB%8B%AC%EC%84%9C%EA%B5%AC",
-        "verification":  "후보/전화확인",
+        "verification":  "HIRA·공식정보 확인",
         "notes":  "동구점 외 달서구 월성동 병원 후보로 보강. 지점명 확인 필요"
     },
     {
@@ -1127,10 +1127,10 @@
         "workersComp":  "확인필요",
         "autoInsurance":  "확인필요",
         "dayRehab":  "확인필요",
-        "address":  "대구 달서구 감삼동(감삼역 권역)",
-        "phone":  "확인필요",
+        "address":  "대구광역시 달서구 달구벌대로 1616 (감삼동)",
+        "phone":  "053-556-9900",
         "sources":  "https://my-doctor.io/dept-hub/%EC%9E%AC%ED%99%9C%EC%9D%98%ED%95%99%EA%B3%BC/%EB%8C%80%EA%B5%AC",
-        "verification":  "후보/전화확인",
+        "verification":  "HIRA·공식정보 확인",
         "notes":  "대구 재활의학과 목록에 진료과목으로 노출"
     },
     {
@@ -1148,10 +1148,10 @@
         "workersComp":  "확인필요",
         "autoInsurance":  "확인필요",
         "dayRehab":  "확인필요",
-        "address":  "대구 달서구 감삼동(감삼역 권역)",
-        "phone":  "확인필요",
+        "address":  "대구광역시 달서구 달구벌대로 1653 (감삼동)",
+        "phone":  "053-559-7777",
         "sources":  "https://my-doctor.io/dept-hub/%EC%9E%AC%ED%99%9C%EC%9D%98%ED%95%99%EA%B3%BC/%EB%8C%80%EA%B5%AC",
-        "verification":  "후보/전화확인",
+        "verification":  "HIRA·공식정보 확인",
         "notes":  "대구 재활의학과 목록에 진료과목으로 노출"
     },
     {
@@ -1169,10 +1169,10 @@
         "workersComp":  "확인필요",
         "autoInsurance":  "확인필요",
         "dayRehab":  "확인필요",
-        "address":  "대구 달성군 가창면",
-        "phone":  "확인필요",
+        "address":  "대구광역시 달성군 가창면 가창로57길 50 (삼산리)",
+        "phone":  "053-762-1400",
         "sources":  "https://my-doctor.io/dept-hub/%EC%9E%AC%ED%99%9C%EC%9D%98%ED%95%99%EA%B3%BC/%EB%8C%80%EA%B5%AC",
-        "verification":  "후보/전화확인",
+        "verification":  "HIRA·공식정보 확인",
         "notes":  "대구 재활의학과 목록에 재활의학과·한방재활의학과 진료과목 노출"
     },
     {
