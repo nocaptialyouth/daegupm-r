@@ -48,14 +48,15 @@ button:focus-visible, input:focus-visible, select:focus-visible, a:focus-visible
   overflow: hidden;
   min-height: 640px;
   color: #ffffff;
-  background: url('daegu_rehab_bg.jpg') no-repeat center center;
-  background-size: cover;
+  background: 
+    linear-gradient(135deg, rgba(45, 11, 17, 0.82) 0%, rgba(76, 5, 25, 0.90) 100%),
+    url('daegu_rehab_bg.jpg') no-repeat center/cover;
 }
 .hero::before {
   content: "";
   position: absolute;
   inset: 0;
-  background: linear-gradient(135deg, rgba(3, 31, 31, 0.88), rgba(7, 59, 58, 0.72));
+  background: linear-gradient(90deg, rgba(45, 11, 17, 0.5) 0%, transparent 80%);
   pointer-events: none;
 }
 .topbar, .hero-inner, main, footer {
